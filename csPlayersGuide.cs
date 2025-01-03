@@ -10,7 +10,12 @@ class csPlayersGuide
         // Level3.Complete();
 
         // Level 4 - Comments
-        Level4.Complete();
+        // Level4.Complete();
 
+        // Level 5 - Purely reading
+
+        // Level 6 - C# Type System
+        Level6 variableShop = new();
+        variableShop.Complete();
     }
 }
