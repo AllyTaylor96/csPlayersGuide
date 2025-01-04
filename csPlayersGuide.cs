@@ -15,7 +15,16 @@ class csPlayersGuide
         // Level 5 - Purely reading
 
         // Level 6 - C# Type System
-        Level6 variableShop = new();
-        variableShop.Complete();
+        // Level6 variableShop = new();
+        // variableShop.Complete();
+
+        // Level 7 - Math
+        // Level7.Complete();
+
+        // Level 8 - Console 2.0
+        Level8.Complete();
+
+        // Level 9 - Decision Making
+
     }
 }
