@@ -22,9 +22,10 @@ class csPlayersGuide
         // Level7.Complete();
 
         // Level 8 - Console 2.0
-        Level8.Complete();
+        // Level8.Complete();
 
         // Level 9 - Decision Making
+        Level9.Complete();
 
     }
 }
